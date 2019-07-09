@@ -1,0 +1,7 @@
+C:\Users\Nemanja Djordjevic\source\repos\DelegatesExplained\DelegatesExplained\bin\Debug\DelegatesExplained.exe.config
+C:\Users\Nemanja Djordjevic\source\repos\DelegatesExplained\DelegatesExplained\bin\Debug\DelegatesExplained.exe
+C:\Users\Nemanja Djordjevic\source\repos\DelegatesExplained\DelegatesExplained\bin\Debug\DelegatesExplained.pdb
+C:\Users\Nemanja Djordjevic\source\repos\DelegatesExplained\DelegatesExplained\obj\Debug\DelegatesExplained.csprojAssemblyReference.cache
+C:\Users\Nemanja Djordjevic\source\repos\DelegatesExplained\DelegatesExplained\obj\Debug\DelegatesExplained.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja Djordjevic\source\repos\DelegatesExplained\DelegatesExplained\obj\Debug\DelegatesExplained.exe
+C:\Users\Nemanja Djordjevic\source\repos\DelegatesExplained\DelegatesExplained\obj\Debug\DelegatesExplained.pdb
